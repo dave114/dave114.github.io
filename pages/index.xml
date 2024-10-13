@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on </title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on </description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 12 Oct 2024 10:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressionen</title>
+      <link>http://localhost:1313/pages/impressionen/</link>
+      <pubDate>Sat, 12 Oct 2024 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/pages/impressionen/</guid>
+      <description>&lt;p&gt;Offenstall &amp;ldquo;unten&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/wiese-1.jpg&#34; alt=&#34;Wiese unten&#34; title=&#34;Wiese unten&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/wiese-2.jpg&#34; alt=&#34;Wiese unten&#34; title=&#34;Wiese unten&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/auslauf-1.jpg&#34; alt=&#34;Auslauf unten&#34; title=&#34;Auslauf unten&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/halle-1.jpg&#34; alt=&#34;Liegehalle unten&#34; title=&#34;Liegehalle unten&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/heuraufe-1.jpg&#34; alt=&#34;Hauraufe unten&#34; title=&#34;Hauraufe unten&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Offenstall &amp;ldquo;oben&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/oberer-stall-1.jpg&#34; alt=&#34;Stall oben&#34; title=&#34;Stall oben&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/oberer-stall-2.jpg&#34; alt=&#34;Stall oben&#34; title=&#34;Stall oben&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Eine traumhafte Landschaft im Umland die jeden Austritt zu einem unvergesslichen werden lässt&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/landschaft-1-hq.jpg&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/landschaft-1.jpg&#34; alt=&#34;Landschaft&#34; title=&#34;Landschaft&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/landschaft-2.jpg&#34; alt=&#34;Landschaft&#34; title=&#34;traumhafte Landschaft im Umland für den Austritt&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/pages/impressum/</link>
+      <pubDate>Sat, 12 Oct 2024 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/pages/impressum/</guid>
+      <description>&lt;p&gt;bla bla&lt;/p&gt;&#xA;&lt;h1 id=&#34;datenschutz&#34;&gt;Datenschutz&lt;/h1&gt;&#xA;&lt;p&gt;bla bla&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>text 1</title>
+      <link>http://localhost:1313/pages/text1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/text1/</guid>
+      <description>&lt;p&gt;text 1&lt;/p&gt;&#xA;&lt;h1 id=&#34;bla&#34;&gt;Bla&lt;/h1&gt;&#xA;&lt;p&gt;sf&lt;/p&gt;&#xA;&lt;p&gt;weg&#xA;we&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
